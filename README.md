@@ -6,15 +6,6 @@
   <strong>Software Engineer | Full-Stack Developer</strong>
 </p>
 
-## 👨‍💻 About Me
-
-- Computer Science student at the Federal University of Goiás (UFG).
-- Junior Full-Stack Developer building end-to-end web applications with Java, Spring Boot, Node.js, React, Next.js, and TypeScript.
-- Focused on secure REST APIs, JWT authentication, relational databases, automated testing, and CI/CD pipelines.
-- Interested in clean architecture, SOLID principles, design patterns, and domain-driven design.
-
-## 💻 Core Skills
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="42" height="42" alt="Java" title="Java" />
   &nbsp;
@@ -32,6 +23,15 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" title="Docker" />
 </p>
+
+## 👨‍💻 About Me
+
+- Computer Science student at the Federal University of Goiás (UFG).
+- Junior Full-Stack Developer building end-to-end web applications with Java, Spring Boot, Node.js, React, Next.js, and TypeScript.
+- Focused on secure REST APIs, JWT authentication, relational databases, automated testing, and CI/CD pipelines.
+- Interested in clean architecture, SOLID principles, design patterns, and domain-driven design.
+
+## 💻 Core Skills
 
 - **Frontend:** React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Vite
 - **Backend:** Java, Spring Boot, Node.js, Fastify, REST APIs, JWT
