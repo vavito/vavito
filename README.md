@@ -8,11 +8,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science student at the Federal University of Goiás (UFG).
-- 💻 Junior Full-Stack Developer building end-to-end web applications with Java, Spring Boot, Node.js, React, Next.js, and TypeScript.
-- ⚙️ Focused on secure REST APIs, JWT authentication, relational databases, automated testing, and CI/CD pipelines.
-- 🧩 Interested in clean architecture, SOLID principles, design patterns, and domain-driven design.
-- 🚀 Currently deepening my knowledge of software architecture, microservices, and Kubernetes.
+- Computer Science student at the Federal University of Goiás (UFG).
+- Junior Full-Stack Developer building end-to-end web applications with Java, Spring Boot, Node.js, React, Next.js, and TypeScript.
+- Focused on secure REST APIs, JWT authentication, relational databases, automated testing, and CI/CD pipelines.
+- Interested in clean architecture, SOLID principles, design patterns, and domain-driven design.
+- Currently deepening my knowledge of software architecture, microservices, and Kubernetes.
 
 ## 💻 Core Skills
 
