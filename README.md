@@ -13,7 +13,7 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" title="Node.js" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="42" height="42" alt="NestJS" title="NestJS" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" title="TypeScript" />
   &nbsp;
@@ -21,36 +21,23 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="42" height="42" alt="Next.js" title="Next.js" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" title="Docker" />
 </p>
 
-## 👨‍💻 About Me
+## About Me
 
 - Computer Science student at the Federal University of Goiás (UFG).
-- Junior Full-Stack Developer building end-to-end web applications with Java, Spring Boot, Node.js, React, Next.js, and TypeScript.
-- Focused on secure REST APIs, JWT authentication, relational databases, automated testing, and CI/CD pipelines.
-- Interested in clean architecture, SOLID principles, design patterns, and domain-driven design.
+- Full-Stack Developer building end-to-end web applications with Node.js, NestJS, Java/Spring Boot, React, Next.js, and TypeScript.
 
-## 💻 Core Skills
+## Experience Highlights
 
-- **Frontend:** React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Vite
-- **Backend:** Java, Spring Boot, Node.js, Fastify, REST APIs, JWT
-- **Databases & Persistence:** PostgreSQL, SQL, Prisma ORM, Spring Data JPA, Flyway
-- **Testing & Quality:** Vitest, automated testing, code review, linting
-- **DevOps & Tools:** Docker, Docker Compose, Git, GitHub Actions, CI/CD
-- **Architecture:** SOLID, design patterns, DDD Light, object-oriented programming
-- **Deployment:** Vercel, Render, Supabase
-
-## 🛠️ Experience Highlights
-
-- 🔗 **Linkito:** Built a full-stack link shortener with Spring Boot and Next.js, including JWT authentication, click analytics, a server-side proxy architecture, database migrations, Docker, and continuous integration.
-- ⏱️ **Lock In Pomodoro:** Developed a productivity platform with secure access and refresh token authentication, Argon2 password hashing, aggregated statistics, automated tests, and CI validation.
-- 🎵 **Slicex Audio Converter:** Created an audio conversion application with asynchronous processing, job-status polling, drag-and-drop uploads, validation, structured error handling, and OpenAPI documentation.
-- 🤝 **Technical Support at Soluti:** Supported users and resolved technical issues under tight deadlines, strengthening communication, teamwork, organization, and decision-making skills.
+- **Vavito Archives**: my personal blog about software development, technology, and continuous learning. It is where I document concepts, experiences, discoveries, and solutions I come across while studying, building projects, and growing as a developer. 
 
 ## 🌐 Social Media
 
 <p align="left">
+  <a href="https://vavitoarchives.com.br">
+    <img src="https://img.shields.io/badge/Vavito%20Archives-18191B?style=for-the-badge" alt="Vavito Archives" />
+  </a>
   <a href="mailto:joaovictor2126@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
